@@ -1,0 +1,21 @@
+const babelrc = `
+{
+    "presets": [
+        ["env", {
+            "targets": {
+                "browsers": [
+                    "> 1%",
+                    "last 2 versions"
+                ]
+            }
+        }],
+        "stage-2",
+        "react"
+    ],
+    "plugins": [
+        "syntax-dynamic-import"
+    ]
+}
+`;
+
+module.exports = babelrc;
