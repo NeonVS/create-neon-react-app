@@ -17,7 +17,7 @@ npm install create-neon-react-app
 ## Usage
 
 ```sh
-Globally install create-neon-react-app and create-neon-react-app filename to start.Dont't foget to run npm install to install node dependencies!
+Globally install create-neon-react-app and create-neon-react-app filename to start.Dont't forget to run npm install to install node dependencies!
 ```
 
 ## Run tests
